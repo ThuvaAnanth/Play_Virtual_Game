@@ -1,11 +1,19 @@
 <resources>
-    <string name="app_name">Simple mathquiz</string>
-    <string name="MATH_QUIZ_GAME">MATH-QUIZ GAME</string>
-    <string name="Level_1">Level 1</string>
-    <string name="Score">Score</string>
-    <string name="High_Score">High Score</string>
-   <string name="Start_game">Start_game</string>
-    <string name="Game_Over">Game Over</string>
-    <string name="Your_score_is">Your Score Is</string>
+    <string name="app_name">Play VR Games Online</string>
+    <string name="Get_in">Get in</string>
+    <string name="full_name">Full Name</string>
+    <string name="name"> Name</string>
+    <string name="Email_address">Email Adress</string>
+    <string name="Contact_Number">contact number</string>
+    <string name="password">password</string>
+    <string name="name1">Play_Virtual Reality Gamnes Online</string>
+    <string name="text2">Forgot Your Password?</string>
+    <string name="Register">Register</string>
+    <string name="text4">forgot Your Password?|Recovery it</string>
+    <string name="login">Login</string>
+    <string name="button2">id/button2</string>
+    <string name="text5">New Movie</string>
+    <string name="text6">Upcomming Movies</string>
+
 
 </resources>
